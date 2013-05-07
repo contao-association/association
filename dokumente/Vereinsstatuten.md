@@ -36,7 +36,8 @@ Aktivmitglied mit Stimmberechtigung kann jede natürliche Person werden, die ein
 
 Passivmitglied ohne Stimmberechtigung kann jede natürliche und juristische Person werden, die ein Interesse am Vereinszweck hat.
 
-Gönner sind natürliche oder juristische Personen, welche den Verein mit finanziellen Mitteln unterstützen möchten, die über die bestimmten Jahresbeiträge hinausgehen. Bezüglich des Stimmrechts gilt für natürliche Personen die Aktivmitgliedschaft, für juristische Personen die Passivmitgliedschaft.
+Gönner sind natürliche oder juristische Personen, welche den Verein mit finanziellen Mitteln unterstützen möchten, die über die bestimmten Jahresbeiträge hinausgehen.
+Gönner verfügen über kein Stimmrecht.
 
 Aufnahmegesuche sind über die offizielle Webseite des Vereins zu stellen; über die Aufnahme entscheidet der Vorstand.
 
@@ -68,7 +69,7 @@ Die Organe des Vereins sind:
 ## Die Generalversammlung
 
 Das oberste Organ des Vereins ist die Generalversammlung. Eine ordentliche Generalversammlung findet jährlich statt.
-Zur Generalversammlung werden die Mitglieder min. zwei Wochen zum Voraus per E-Mail eingeladen, unter Beilage der Traktandenliste.
+Zur Generalversammlung werden die Mitglieder mindestens zwei Wochen zum Voraus per E-Mail, unter Beilage der Traktandenliste, eingeladen.
 
 Die Generalversammlung hat die folgenden unentziehbaren Aufgaben:
 
@@ -85,15 +86,17 @@ An der Generalversammlung besitzt jedes Aktivmitglied eine Stimme; die Beschluss
 
 ## Der Vorstand
 
-Der Vorstand besteht aus fünf natürlichen Personen, nämlich dem Präsident, dem Schatzmeister, dem Sekretär und zwei BeisitzerInnen. Er vertritt den Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand konstituiert sich selbst.
+Der Vorstand besteht aus fünf natürlichen Personen, nämlich dem Präsident, dem Schatzmeister, dem Sekretär und zwei Beisitzern. Er vertritt den Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand konstituiert sich selbst.
 
-Für bestimmte Aktivitäten und Projekte darf der Vorstand Arbeitsgruppen einsetzen und diesen alle notwendigen Kompetenzen delegieren. Dabei tritt er als Kontroll- und Steuerorgan auf und kann jederzeit Einsicht in die erarbeiteten Unterlagen verlangen oder gar direkt eingreifen.
+Der Vorstand definiert «Ressorts» für bestimmte Teilbereiche der operativen Vereinsführung. Die Aufgaben und Kompetenzen der jeweiligen Ressortleiter werden durch den Vorstand bestimmt. Ein Ressortleiter muss Aktivmitglied im Verein sein, gehört aber nicht zwingend zum Vorstand.
+
+Für bestimmte Aktivitäten und Projekte kann der Vorstand ausserdem Arbeitsgruppen einsetzen und diesen alle notwendigen Kompetenzen delegieren. Dabei tritt er als Kontroll- und Steuerorgan auf und kann jederzeit Einsicht in die erarbeiteten Unterlagen verlangen oder gar direkt eingreifen.
 
 
 
 ## Unterschrift
 
-Der Verein wird verpflichtet durch die Kollektivunterschrift des Präsidenten zusammen mit einem weiteren Mitglied des Vorstandes.
+Nach übereinstimmendem Beschluss im Vorstand wird der Verein verpflichtet durch die Einzelunterschrift eines Vorstandmitglieds.
 
 
 
@@ -119,5 +122,5 @@ Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine Institution
 
 ## Inkrafttreten
 
-Diese Statuten sind an der Generalversammlung vom 16.05.2012 angenommen worden und sind mit diesem Datum in Kraft getreten.
+Diese Statuten sind an der Generalversammlung vom 08.05.2013 angenommen worden und sind mit diesem Datum in Kraft getreten.
 
