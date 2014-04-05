@@ -100,9 +100,10 @@ kein Stimmrecht.
 
 ## Der Vorstand
 
-Der Vorstand besteht aus fünf natürlichen Personen, nämlich dem Präsident, dem Schatzmeister,
-dem Sekretär und zwei Beisitzern. Er vertritt den Verein nach Aussen und führt die laufenden
-Geschäfte. Der Vorstand konstituiert sich selbst.
+Der Vorstand besteht aus mindestens drei natürlichen Personen, nämlich dem Präsident, dem
+Schatzmeister, dem Sekretär. Es können außerdem ein vielfaches von zwei Beisitzern den Vorstand
+ergänzen. Er vertritt den Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand
+konstituiert sich selbst.
 
 Der Vorstand definiert «Ressorts» für bestimmte Teilbereiche der operativen Vereinsführung.
 Die Aufgaben und Kompetenzen der jeweiligen Ressortleiter werden durch den Vorstand bestimmt.
@@ -111,6 +112,43 @@ Ein Ressortleiter muss Aktivmitglied im Verein sein, gehört aber nicht zwingend
 Für bestimmte Aktivitäten und Projekte kann der Vorstand ausserdem Arbeitsgruppen einsetzen und
 diesen alle notwendigen Kompetenzen delegieren. Dabei tritt er als Kontroll- und Steuerorgan auf
 und kann jederzeit Einsicht in die erarbeiteten Unterlagen verlangen oder gar direkt eingreifen.
+
+### Wahl
+
+Wie Wahl der Vorstandsmitglieder erfolgt wie folgt.
+
+a) Präsident, Schatzmeister und Sekretär werden einzeln durch Mehrheitswahl bestimmt. Zur Wahl
+ist eine absolute Mehrheit der zur Generalversammlung akkreditierten Mitgliedern notwendig.
+
+Bei mehreren Kandidaten gewinnt der Kandidat mit der höheren Zustimmung. Sollte kein Kandidat
+eine eindeutige absolute Mehrheit auf sich vereinen, muss die Wahl wiederholt werden.
+
+b) Die Beisitzer werden gemeinsam in einem Wahlgang durch Wahl durch Zustimmung gewählt. Alle
+Kandidaten die eine absolute Mehrheit der zur Generalversammlung akkreditierten Mitgliedern
+auf sich vereint haben gelten als gewählt.
+
+Sollte kein oder nur ein Kandidat gewählt werden, kann die Wahl erneut durchgeführt werden.
+
+Sollte eine ungerade Anzahl an Beisitzern gewählt werden, fällt der Beisitzer mit der
+geringsten Zustimmung raus, so das eine gerade Anzahl Beisitzer übrig bleibt. Sollte dieser
+Kandidat nicht eindeutig bestimmt werden, weil zwei oder mehr Kandidaten die gleiche Zustimmung
+auf sich vereinen, muss eine Stichwahl zwischen diesen Kandidaten durchgeführt werden. Bei der
+Stichwahl gelten diese Kandidaten als gewählt, welche die relative Mehrheit der akkreditierten
+Mitglieder auf sich vereinen können.
+
+c) Die Wahl erfolgt grundsätzlich offen. Ein Einzelner kann vor Beginn der Generalversammlung
+beim Vorstand eine geheime Wahl beantragen.
+
+Der Antrag kann Formlos, auch mündlich erfolgen. Der Antragsteller muss sich mit Nachweis der
+Akkreditierung bei dem Vorstandsmitglied als Stimmberechtigtes Mitglied der Association
+identifizieren. Die Identifizierung kann auch nach der Antragstellung, muss aber vor den
+Wahlen durchgeführt werden.
+
+Das Vorstandsmitglied das Kenntnis über den Antrag auf geheime Wahl hat, muss zu Beginn der
+Generalversammlung die Versammlungs- und Wahlleitung darüber in Kenntnis setzen.
+
+Die Wahlleitung hat dann eine geheime Wahl durchzuführen. Ein Antrag auf offene Wahl kann
+nicht gestellt werden, da kein einstimmiges Votum erreicht werden kann.
 
 
 
