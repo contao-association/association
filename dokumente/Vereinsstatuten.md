@@ -80,8 +80,7 @@ Die Organe des Vereins sind:
 
 Das oberste Organ des Vereins ist die Generalversammlung. Eine ordentliche Generalversammlung
 findet jährlich statt.  
-Zur Generalversammlung werden die Mitglieder mindestens zwei Wochen zum Voraus per E-Mail,
-unter Beilage der Traktandenliste, eingeladen.
+Zur Generalversammlung werden die Mitglieder mindestens acht Wochen zum Voraus per E-Mail, unter Beilage der Traktandenliste, dem Budget für das folgende Vereinsjahr sowie der Jahresrechnung des aktuellen Vereinsjahres, eingeladen.
 
 Die Generalversammlung hat die folgenden unentziehbaren Aufgaben:
 
