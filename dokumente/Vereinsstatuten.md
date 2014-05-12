@@ -97,7 +97,7 @@ mit einfachem Mehr. Passivmitglieder werden zur Generalversammlung eingeladen, b
 kein Stimmrecht.
 
 Die Akkreditierung der stimmberechtigten Mitglieder kann jederzeit erfolgen. Der Vorstand ist
-dafür Verantwortlich die Akkreditierung spätestens 15 Minuten vor Beginn und während der
+dafür verantwortlich die Akkreditierung spätestens 15 Minuten vor Beginn und während der
 gesamten Generalversammlung zu ermöglichen.
 
 Zu diesem Zweck muss der Vorstand zwei Akkreditierungshelfer bestimmen, die auch während der Generalversammlung
