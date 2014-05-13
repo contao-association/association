@@ -129,7 +129,7 @@ auf sich vereint haben gelten als gewählt.
 Sollte kein oder nur ein Kandidat gewählt werden, kann die Wahl erneut durchgeführt werden.
 
 Sollte eine ungerade Anzahl an Beisitzern gewählt werden, fällt der Beisitzer mit der
-geringsten Zustimmung raus, so das eine gerade Anzahl Beisitzer übrig bleibt. Sollte dieser
+geringsten Zustimmung weg, so dass eine gerade Anzahl Beisitzer übrig bleibt. Sollte dieser
 Kandidat nicht eindeutig bestimmt werden, weil zwei oder mehr Kandidaten die gleiche Zustimmung
 auf sich vereinen, muss eine Stichwahl zwischen diesen Kandidaten durchgeführt werden. Bei der
 Stichwahl gelten diese Kandidaten als gewählt, welche die relative Mehrheit der akkreditierten
@@ -139,7 +139,7 @@ c) Die Wahl erfolgt grundsätzlich offen. Ein Einzelner kann vor Beginn der Gene
 beim Vorstand eine geheime Wahl beantragen.
 
 Der Antrag kann formlos, auch mündlich erfolgen. Der Antragsteller muss sich mit Nachweis der
-Akkreditierung bei dem Vorstandsmitglied als Stimmberechtigtes Mitglied der Association
+Akkreditierung bei dem Vorstandsmitglied als stimmberechtigtes Mitglied der Association
 identifizieren. Die Identifizierung kann auch nach der Antragstellung, muss aber vor den
 Wahlen durchgeführt werden.
 
