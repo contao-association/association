@@ -100,9 +100,10 @@ kein Stimmrecht.
 
 ## Der Vorstand
 
-Der Vorstand besteht aus fünf natürlichen Personen, nämlich dem Präsident, dem Schatzmeister,
-dem Sekretär und zwei Beisitzern. Er vertritt den Verein nach Aussen und führt die laufenden
-Geschäfte. Der Vorstand konstituiert sich selbst.
+Der Vorstand besteht aus mindestens drei natürlichen Personen, nämlich dem Präsident, dem
+Schatzmeister und dem Sekretär. Es können außerdem ein Vielfaches von zwei Beisitzern den Vorstand
+ergänzen. Er vertritt den Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand
+konstituiert sich selbst.
 
 Der Vorstand definiert «Ressorts» für bestimmte Teilbereiche der operativen Vereinsführung.
 Die Aufgaben und Kompetenzen der jeweiligen Ressortleiter werden durch den Vorstand bestimmt.
