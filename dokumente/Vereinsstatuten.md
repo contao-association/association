@@ -103,7 +103,7 @@ gesamten Generalversammlung zu ermöglichen.
 Zu diesem Zweck muss der Vorstand zwei Akkreditierungshelfer bestimmen, die auch während der Generalversammlung
 eine Akkreditierung von später eintreffenden Mitgliedern ermöglicht. Diese Akkreditierungshelfer müssen keine
 Vereinsmitglieder sein. Sollte es sich bei einem oder beiden um Vereinsmitglieder handeln, ist
-sicher zu stellen das Ihre Teilnahme an der Generalversammlung nicht wesentlich beeinträchtigt wird.
+sicher zu stellen das ihre Teilnahme an der Generalversammlung nicht wesentlich beeinträchtigt wird.
 
 
 
