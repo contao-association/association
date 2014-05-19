@@ -18,7 +18,7 @@ Diese Förderung beinhaltet im Besonderen:
 
 - Organisation von Veranstaltungen zwecks Information und Weiterbildungen der Mitglieder
   und weiterer Interessierter
-- Kommunikation nach innen und aussen zur Verbreitung von Wissen und Können zur Nutzung
+- Kommunikation nach Innen und Aussen zur Verbreitung von Wissen und Können zur Nutzung
   des Systems, insbesondere über die Websites des Projektes
 - Finanzierung von Erweiterungen
 - Weiterentwicklung des Softwareprojekts Contao Open Source CMS
@@ -154,7 +154,7 @@ nicht gestellt werden, da kein einstimmiges Votum erreicht werden kann.
 ## Unterschrift
 
 Nach übereinstimmendem Beschluss im Vorstand wird der Verein verpflichtet durch die
-Einzelunterschrift eines Vorstandmitglieds.
+Einzelunterschrift eines Vorstandsmitglieds.
 
 
 
@@ -186,6 +186,6 @@ oder einen ähnlichen Zweck verfolgt.
 
 ## Inkrafttreten
 
-Diese Statuten sind an der Generalversammlung vom 08.05.2013 angenommen worden und sind mit
+Diese Statuten sind an der Generalversammlung vom 15.05.2014 angenommen worden und sind mit
 diesem Datum in Kraft getreten.
 
