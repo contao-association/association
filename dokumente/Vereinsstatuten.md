@@ -61,9 +61,10 @@ Die Mitgliedschaft erlischt
 
 ## Austritt und Ausschluss
 
-Ein Vereinsaustritt ist jederzeit möglich. Ein Mitglied kann jederzeit ohne Grundangabe aus
-dem Verein ausgeschlossen werden. Der Vorstand fällt den Ausschlussentscheid; das Mitglied kann
-den Ausschlussentscheid an die Generalversammlung weiterziehen.
+Ein Vereinsaustritt ist jederzeit auf Ende der Rechnungsperiode möglich. 
+Eine rückwirkende Kündigung (Rechnungsstornierung) ist ausgeschlossen. Ein Mitglied kann jederzeit 
+ohne Grundangabe aus dem Verein ausgeschlossen werden. Der Vorstand fällt den
+Ausschlussentscheid; das Mitglied kann den Ausschlussentscheid an die Generalversammlung weiterziehen.
 
 
 
