@@ -104,11 +104,7 @@ Schatzmeister und dem Sekretär. Es können ausserdem ein Vielfaches von zwei Be
 ergänzen, jedoch darf der Vorstand aus nicht mehr als sieben Personen bestehen. Er vertritt den
 Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand konstituiert sich selbst.
 
-Der Vorstand definiert «Ressorts» für bestimmte Teilbereiche der operativen Vereinsführung.
-Die Aufgaben und Kompetenzen der jeweiligen Ressortleiter werden durch den Vorstand bestimmt.
-Ein Ressortleiter muss Aktivmitglied im Verein sein, gehört aber nicht zwingend zum Vorstand.
-
-Für bestimmte Aktivitäten und Projekte kann der Vorstand ausserdem Arbeitsgruppen einsetzen und
+Für bestimmte Aktivitäten und Projekte kann der Vorstand Arbeitsgruppen einsetzen und
 diesen alle notwendigen Kompetenzen delegieren. Dabei tritt er als Kontroll- und Steuerorgan auf
 und kann jederzeit Einsicht in die erarbeiteten Unterlagen verlangen oder gar direkt eingreifen.
 
