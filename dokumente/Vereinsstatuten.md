@@ -28,10 +28,16 @@ Diese Förderung beinhaltet im Besonderen:
 
 ## Mittel
 
-Zur Verfolgung des Vereinszweckes verfügt der Verein über die Beiträge der Mitglieder,
-welche jährlich von der Mitgliederversammlung festgelegt werden.
+Zur Verfolgung des Vereinszweckes verfügt der Verein über die Beiträge der Mitglieder
+sowie Einnahmen aus Aktivitäten und Veranstaltungen.
 Zuwendungen und Spenden aller Art können vom Verein entgegengenommen werden.
 
+
+### Budget für das Folgejahr
+
+Findet die Generalversammlung nicht im ersten Quartal des Jahres statt, gilt für laufende
+Kosten das Budget des Vorjahres bis zum Beschluss über die Mittelverwendung durch 
+die Generalversammlung. 
 
 
 ## Mitgliedschaft
