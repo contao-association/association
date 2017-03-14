@@ -106,6 +106,24 @@ kein Stimmrecht.
 
 
 
+## Förderung
+
+Die Generalversammlung legt ein Budget zur Förderungen von Contao-spezifischen Projekten im
+darauf folgenden Geschäftsjahr fest. Wie die Mittel eingesetzt werden, wird per Mitgliederabstimmung
+bestimmt.
+
+Anträge zur Förderung können von allen Mitgliedern gestellt werden. Der Antrag muss eine
+detaillierte Beschreibung über den Einsatz der Mittel, einen detaillierten Zeitplan und eine
+detaillierte Kostenaufstellung beinhalten. Der Vorstand entscheidet ob der Antrag den
+Zielen der Contao Association entspricht und stellt diesen dann innerhalb eines angemessenen
+Zeitraums zur Abstimmung.
+
+Die Abstimmung gilt als angenommen, wenn nach Ende der Abstimmungsphase die Abstimmung eine relative
+Mehrheit an Stimmen erhalten hat. Wird der Antrag angenommen, muss der Vorstand die Umsetzung in
+einem angemessenen Zeitraum in Auftrag geben.
+
+
+
 ## Der Vorstand
 
 Der Vorstand besteht aus mindestens drei natürlichen Personen, nämlich dem Präsident, dem
