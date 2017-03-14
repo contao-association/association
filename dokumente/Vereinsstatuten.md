@@ -104,6 +104,15 @@ An der Generalversammlung besitzt jedes Aktivmitglied eine Stimme; die Beschluss
 mit einfachem Mehr. Passivmitglieder werden zur Generalversammlung eingeladen, besitzen jedoch
 kein Stimmrecht.
 
+Die Akkreditierung der stimmberechtigten Mitglieder kann jederzeit erfolgen. Der Vorstand ist
+dafür verantwortlich die Akkreditierung spätestens 15 Minuten vor Beginn und während der
+gesamten Generalversammlung zu ermöglichen.
+
+Zu diesem Zweck muss der Vorstand zwei Akkreditierungshelfer bestimmen, die auch während der Generalversammlung
+eine Akkreditierung von später eintreffenden Mitgliedern ermöglicht. Diese Akkreditierungshelfer müssen keine
+Vereinsmitglieder sein. Sollte es sich bei einem oder beiden um Vereinsmitglieder handeln, ist
+sicher zu stellen das ihre Teilnahme an der Generalversammlung nicht wesentlich beeinträchtigt wird.
+
 
 
 ## Der Vorstand
