@@ -155,6 +155,10 @@ Die Wahlleitung hat dann eine geheime Wahl durchzuführen. Ein Antrag auf offene
 nicht gestellt werden, da kein einstimmiges Votum erreicht werden kann.
 
 
+### Vergütung
+Der Vorstand erhält jährlich eine Tätigkeitsvergütungen in Höhe von 450,- Euro pro Person für 
+seine geleistete Tätigkeit für den Verein. Weiterhin kann jedem Vorstandsmitglied ein Aufwandsersatz 
+gezahlt werden, bei atsächlich entstandener Aufwendungen, z.B. für Reisen, Büromaterial, Telefon oder Beschaffungen im Auftrag des Vereins). Der Gesamtbetrag darf dabei nicht den aktuellen steuerlich feien "Ehrenamtsfreibetrag" überschreiten (Stand 31.01.2017 **720,- Euro**) 
 
 ## Unterschrift
 
