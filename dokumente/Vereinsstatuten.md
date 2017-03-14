@@ -21,6 +21,10 @@ Diese Förderung beinhaltet im Besonderen:
 - Kommunikation nach Innen und Aussen zur Verbreitung von Wissen und Können zur Nutzung
   des Systems, insbesondere über die Websites des Projektes
 - Finanzierung von Erweiterungen
+- Personelle und/oder finanzielle Unterstützung lokaler/regionaler Veranstaltungen, 
+  die nicht selbst durch die Contao Association veranstaltet werden, die aber die 
+  Verbreitung des Softwareprojekts Contao Open Source CMS und die Gewinnung 
+  neuer Mitglieder für die Association fördern. 
 - Weiterentwicklung des Softwareprojekts Contao Open Source CMS
 - Public Relations und Verbreitungsförderung
 
