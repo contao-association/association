@@ -55,7 +55,7 @@ Gönner verfügen über kein Stimmrecht.
 Aufnahmegesuche sind über die offizielle Webseite des Vereins zu stellen; über die Aufnahme
 entscheidet der Vorstand.
 
-
+Jedem Mitglied steht das Recht zu, jederzeit Einblick in die Protokolle der Generellversammlungen sowie Jahresausgaben zu erhalten.
 
 ## Erlöschen der Mitgliedschaft
 
