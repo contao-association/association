@@ -104,7 +104,7 @@ An der Generalversammlung besitzt jedes Aktivmitglied eine Stimme; die Beschluss
 mit einfachem Mehr. Passivmitglieder werden zur Generalversammlung eingeladen, besitzen jedoch
 kein Stimmrecht.
 
-
+Das Protokoll der Generalversammlung sowie die vorgestellte Jahresrechnung aus Punkt 3 müssen spätestens 4 Wochen nach der Generalversammlung für alle Mitglieder im Mitgliederbereich der Association Website zu Verfügung stehen. 
 
 ## Der Vorstand
 
