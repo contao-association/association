@@ -156,9 +156,9 @@ nicht gestellt werden, da kein einstimmiges Votum erreicht werden kann.
 
 
 ### Vergütung
-Der Vorstand erhält jährlich eine Tätigkeitsvergütungen in Höhe von 450,- Euro pro Person für 
-seine geleistete Tätigkeit für den Verein. Weiterhin kann jedem Vorstandsmitglied ein Aufwandsersatz 
-gezahlt werden, bei tatsächlich entstandener Aufwendungen, z.B. für Reisen, Büromaterial, Telefon oder Beschaffungen im Auftrag des Vereins). Der Gesamtbetrag darf dabei nicht den aktuellen steuerlich feien "Ehrenamtsfreibetrag" überschreiten (Stand 31.01.2017 **720,- Euro**) 
+Jedem Vorstandsmitglied steht eine jährliche Tätigkeitsvergütungen in Höhe von 450,- Euro für 
+seine ehrenamtlich geleistete Tätigkeit zu, anteilig der aktiven Monate. 
+Darüber hinaus kann jedes Vorstandsmitglied, wie auch jedes Mitglied oder Externer, eine Rechnung als Aufwandsersatz stellen, für zusätzliche geleistete Tätigkeiten (z.B. für Veranstaltungsorganisation, Buchhaltung, Reisen, Büromaterial, Auslagen, usw.) die über den normalen Rahmen einer Vereinsarbeit hinausgehen.
 
 ## Unterschrift
 
