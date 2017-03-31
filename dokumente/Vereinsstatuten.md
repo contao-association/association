@@ -155,6 +155,10 @@ Die Wahlleitung hat dann eine geheime Wahl durchzuführen. Ein Antrag auf offene
 nicht gestellt werden, da kein einstimmiges Votum erreicht werden kann.
 
 
+### Vergütung
+Jedem Vorstandsmitglied steht eine jährliche Tätigkeitsvergütungen in Höhe von 450,- Euro für 
+seine ehrenamtlich geleistete Tätigkeit zu, anteilig der aktiven Monate. 
+Darüber hinaus kann jedes Vorstandsmitglied, wie auch jedes Mitglied oder Externer, eine Rechnung als Aufwandsersatz stellen, für zusätzliche geleistete Tätigkeiten (z.B. für Veranstaltungsorganisation, Buchhaltung, Reisen, Büromaterial, Auslagen, usw.) die über den normalen Rahmen einer Vereinsarbeit hinausgehen.
 
 ## Unterschrift
 
