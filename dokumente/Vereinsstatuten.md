@@ -31,6 +31,7 @@ Diese Förderung beinhaltet im Besonderen:
 Zur Verfolgung des Vereinszweckes verfügt der Verein über die Beiträge der Mitglieder
 sowie Einnahmen aus Aktivitäten und Veranstaltungen.
 Zuwendungen und Spenden aller Art können vom Verein entgegengenommen werden.
+Die Mittel des Vereins sind ausschließlich zu satzungsgemäßen Zwecken zu verwenden. Eine Gewinnausschüttung an Vereinsmitglieder oder Dritte erfolgt nicht.
 
 
 ### Budget für das Folgejahr
