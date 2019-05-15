@@ -31,8 +31,7 @@ Diese Förderung beinhaltet im Besonderen:
 Zur Verfolgung des Vereinszweckes verfügt der Verein über die Beiträge der Mitglieder
 sowie Einnahmen aus Aktivitäten und Veranstaltungen.
 Zuwendungen und Spenden aller Art können vom Verein entgegengenommen werden.
-Die Mittel des Vereins sind ausschließlich zu satzungsgemäßen Zwecken zu verwenden. Eine Gewinnausschüttung an Vereinsmitglieder oder Dritte erfolgt nicht.
-
+Die Mittel des Vereins sind ausschließlich zu satzungsgemäßen Zwecken zu verwenden.
 
 ### Budget für das Folgejahr
 
@@ -186,7 +185,7 @@ Nehmen weniger als drei Viertel aller Mitglieder an der Versammlung teil, ist in
 Monats eine zweite Versammlung abzuhalten. An dieser Versammlung kann der Verein auch dann mit
 einfacher Mehrheit aufgelöst werden, wenn weniger als drei Viertel der Mitglieder anwesend sind.  
 Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine Institution, welche den gleichen
-oder einen ähnlichen Zweck verfolgt.
+oder einen ähnlichen gemeinnützigen Zweck verfolgt.
 
 
 
