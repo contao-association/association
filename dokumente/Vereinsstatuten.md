@@ -109,13 +109,16 @@ kein Stimmrecht.
 ## Der Vorstand
 
 Der Vorstand besteht aus mindestens drei natürlichen Personen, nämlich dem Präsident, dem
-Schatzmeister und dem Sekretär. Es können ausserdem ein Vielfaches von zwei Beisitzern den Vorstand
-ergänzen, jedoch darf der Vorstand aus nicht mehr als sieben Personen bestehen. Er vertritt den
+Schatzmeister und dem Sekretär. Weitere Funktionen können durch Beisitzer besetzt werden. Er vertritt den
 Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand konstituiert sich selbst.
 
 Für bestimmte Aktivitäten und Projekte kann der Vorstand Arbeitsgruppen einsetzen und
 diesen alle notwendigen Kompetenzen delegieren. Dabei tritt er als Kontroll- und Steuerorgan auf
 und kann jederzeit Einsicht in die erarbeiteten Unterlagen verlangen oder gar direkt eingreifen.
+
+### Einberufung
+
+Der Vorstand ist bei Anwesenheit der Mehrheit seiner Mitglieder beschlussfähig. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegegeben Stimmen. Bei Stimmengleichheit hat der Präsident den Stichentscheid.
 
 ### Wahl
 
@@ -129,16 +132,8 @@ wiederholt werden.
 
 b) Die Beisitzer werden gemeinsam in einem Wahlgang durch Wahl durch Zustimmung gewählt. Alle
 Kandidaten die eine absolute Mehrheit der zur Generalversammlung akkreditierten Mitgliedern
-auf sich vereint haben gelten als gewählt.
-
-Sollte kein oder nur ein Kandidat gewählt werden, kann die Wahl erneut durchgeführt werden.
-
-Sollte eine ungerade Anzahl an Beisitzern gewählt werden, fällt der Beisitzer mit der
-geringsten Zustimmung weg, so dass eine gerade Anzahl Beisitzer übrig bleibt. Sollte dieser
-Kandidat nicht eindeutig bestimmt werden, weil zwei oder mehr Kandidaten die gleiche Zustimmung
-auf sich vereinen, muss eine Stichwahl zwischen diesen Kandidaten durchgeführt werden. Bei der
-Stichwahl gelten diese Kandidaten als gewählt, welche die relative Mehrheit der akkreditierten
-Mitglieder auf sich vereinen können.
+auf sich vereint haben gelten als gewählt. Sollte kein Kandidat gewählt werden, kann die Wahl 
+erneut durchgeführt werden.
 
 c) Die Wahl erfolgt grundsätzlich offen. Ein Einzelner kann vor Beginn der Generalversammlung
 beim Vorstand eine geheime Wahl beantragen.
