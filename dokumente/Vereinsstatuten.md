@@ -143,7 +143,7 @@ Akkreditierung bei dem Vorstandsmitglied als stimmberechtigtes Mitglied der Asso
 identifizieren. Die Identifizierung kann auch nach der Antragstellung, muss aber vor den
 Wahlen durchgeführt werden.
 
-Das Vorstandsmitglied das Kenntnis über den Antrag auf geheime Wahl hat, muss zu Beginn der
+Das Vorstandsmitglied, welches Kenntnis über den Antrag auf geheime Wahl hat, muss zu Beginn der
 Generalversammlung die Versammlungs- und Wahlleitung darüber in Kenntnis setzen.
 
 Die Wahlleitung hat dann eine geheime Wahl durchzuführen. Ein Antrag auf offene Wahl kann
