@@ -48,9 +48,9 @@ am Vereinszweck hat.
 Passivmitglied ohne Stimmberechtigung kann jede natürliche und juristische Person werden,
 die ein Interesse am Vereinszweck hat.
 
-Gönner sind natürliche oder juristische Personen, welche den Verein mit finanziellen Mitteln
+Fördermitglieder sind natürliche oder juristische Personen, welche den Verein mit finanziellen Mitteln
 unterstützen möchten, die über die bestimmten Jahresbeiträge hinausgehen.
-Gönner verfügen über kein Stimmrecht.
+Fördermitglieder verfügen über kein Stimmrecht.
 
 Aufnahmegesuche sind über die offizielle Webseite des Vereins zu stellen; über die Aufnahme
 entscheidet der Vorstand.
