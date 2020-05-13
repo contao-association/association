@@ -118,7 +118,7 @@ und kann jederzeit Einsicht in die erarbeiteten Unterlagen verlangen oder gar di
 
 ### Einberufung
 
-Der Vorstand ist bei Anwesenheit der Mehrheit seiner Mitglieder beschlussfähig. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegegeben Stimmen. Bei Stimmengleichheit hat der Präsident den Stichentscheid.
+Der Vorstand ist bei Anwesenheit der Mehrheit seiner Mitglieder beschlussfähig. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit hat der Präsident den Stichentscheid.
 
 ### Wahl
 
