@@ -122,7 +122,7 @@ Der Vorstand ist bei Anwesenheit der Mehrheit seiner Mitglieder beschlussfähig.
 
 ### Wahl
 
-Wie Wahl der Vorstandsmitglieder erfolgt wie folgt.
+Die Wahl der Vorstandsmitglieder erfolgt wie folgt.
 
 a) Präsident, Schatzmeister und Sekretär werden einzeln durch Mehrheitswahl bestimmt. Zur Wahl
 ist eine absolute Mehrheit der zur Generalversammlung akkreditierten Mitgliedern notwendig.
