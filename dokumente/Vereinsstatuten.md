@@ -149,6 +149,7 @@ Generalversammlung die Versammlungs- und Wahlleitung darüber in Kenntnis setzen
 Die Wahlleitung hat dann eine geheime Wahl durchzuführen. Ein Antrag auf offene Wahl kann
 nicht gestellt werden, da kein einstimmiges Votum erreicht werden kann.
 
+d) Die Vorstandsmitglieder werden für 2 Jahre gewählt.
 
 
 ## Unterschrift
