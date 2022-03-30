@@ -94,8 +94,7 @@ Die Generalversammlung hat die folgenden unentziehbaren Aufgaben:
 6. Behandlung der Ausschlussrekurse
 
 An der Generalversammlung besitzt jedes Aktivmitglied eine Stimme; die Beschlussfassung erfolgt
-mit einfachem Mehr. Passivmitglieder werden zur Generalversammlung eingeladen, besitzen jedoch
-kein Stimmrecht.
+mit einfachem Mehr. Alle Community-Mitglieder sind zur Generalversammlung willkommen, besitzen jedoch kein Stimmrecht.
 
 
 
