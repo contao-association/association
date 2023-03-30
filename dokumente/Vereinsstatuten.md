@@ -45,13 +45,6 @@ die Generalversammlung.
 Aktivmitglied mit Stimmberechtigung kann jede natürliche Person werden, die ein Interesse
 am Vereinszweck hat.
 
-Passivmitglied ohne Stimmberechtigung kann jede natürliche und juristische Person werden,
-die ein Interesse am Vereinszweck hat.
-
-Fördermitglieder sind natürliche oder juristische Personen, welche den Verein mit finanziellen Mitteln
-unterstützen möchten, die über die bestimmten Jahresbeiträge hinausgehen.
-Fördermitglieder verfügen über kein Stimmrecht.
-
 Aufnahmegesuche sind über die offizielle Webseite des Vereins zu stellen; über die Aufnahme
 entscheidet der Vorstand.
 
@@ -101,8 +94,7 @@ Die Generalversammlung hat die folgenden unentziehbaren Aufgaben:
 6. Behandlung der Ausschlussrekurse
 
 An der Generalversammlung besitzt jedes Aktivmitglied eine Stimme; die Beschlussfassung erfolgt
-mit einfachem Mehr. Passivmitglieder werden zur Generalversammlung eingeladen, besitzen jedoch
-kein Stimmrecht.
+mit einfachem Mehr. Alle Community-Mitglieder sind zur Generalversammlung willkommen, besitzen jedoch kein Stimmrecht.
 
 
 
